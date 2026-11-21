@@ -1,0 +1,499 @@
+{
+  "total": 60,
+  "disponibles": 60,
+  "precio_promedio": 35.0,
+  "mejor_valorados": [
+    "Sapiens: A Brief History of Humankind",
+    "Set Me Free",
+    "Scott Pilgrim&#39;s Precious Little Life (Scott Pilgrim #1)",
+    "Rip it Up and Start Again",
+    "Chase Me (Paris Nights #2)",
+    "Black Dust",
+    "Worlds Elsewhere: Journeys Around Shakespeare’s Globe",
+    "The Four Agreements: A Practical Guide to Personal Freedom",
+    "The Elephant Tree",
+    "Sophie&#39;s World"
+  ],
+  "libros": [
+    {
+      "titulo": "A Light in the Attic",
+      "precio": "51.77",
+      "moneda": "GBP",
+      "disponible": true,
+      "valoracion": 3,
+      "url": "https://books.toscrape.com/catalogue/a-light-in-the-attic_1000/index.html"
+    },
+    {
+      "titulo": "Tipping the Velvet",
+      "precio": "53.74",
+      "moneda": "GBP",
+      "disponible": true,
+      "valoracion": 1,
+      "url": "https://books.toscrape.com/catalogue/tipping-the-velvet_999/index.html"
+    },
+    {
+      "titulo": "Soumission",
+      "precio": "50.10",
+      "moneda": "GBP",
+      "disponible": true,
+      "valoracion": 1,
+      "url": "https://books.toscrape.com/catalogue/soumission_998/index.html"
+    },
+    {
+      "titulo": "Sharp Objects",
+      "precio": "47.82",
+      "moneda": "GBP",
+      "disponible": true,
+      "valoracion": 4,
+      "url": "https://books.toscrape.com/catalogue/sharp-objects_997/index.html"
+    },
+    {
+      "titulo": "Sapiens: A Brief History of Humankind",
+      "precio": "54.23",
+      "moneda": "GBP",
+      "disponible": true,
+      "valoracion": 5,
+      "url": "https://books.toscrape.com/catalogue/sapiens-a-brief-history-of-humankind_996/index.html"
+    },
+    {
+      "titulo": "The Requiem Red",
+      "precio": "22.65",
+      "moneda": "GBP",
+      "disponible": true,
+      "valoracion": 1,
+      "url": "https://books.toscrape.com/catalogue/the-requiem-red_995/index.html"
+    },
+    {
+      "titulo": "The Dirty Little Secrets of Getting Your Dream Job",
+      "precio": "33.34",
+      "moneda": "GBP",
+      "disponible": true,
+      "valoracion": 4,
+      "url": "https://books.toscrape.com/catalogue/the-dirty-little-secrets-of-getting-your-dream-job_994/index.html"
+    },
+    {
+      "titulo": "The Coming Woman: A Novel Based on the Life of the Infamous Feminist, Victoria Woodhull",
+      "precio": "17.93",
+      "moneda": "GBP",
+      "disponible": true,
+      "valoracion": 3,
+      "url": "https://books.toscrape.com/catalogue/the-coming-woman-a-novel-based-on-the-life-of-the-infamous-feminist-victoria-woodhull_993/index.html"
+    },
+    {
+      "titulo": "The Boys in the Boat: Nine Americans and Their Epic Quest for Gold at the 1936 Berlin Olympics",
+      "precio": "22.60",
+      "moneda": "GBP",
+      "disponible": true,
+      "valoracion": 4,
+      "url": "https://books.toscrape.com/catalogue/the-boys-in-the-boat-nine-americans-and-their-epic-quest-for-gold-at-the-1936-berlin-olympics_992/index.html"
+    },
+    {
+      "titulo": "The Black Maria",
+      "precio": "52.15",
+      "moneda": "GBP",
+      "disponible": true,
+      "valoracion": 1,
+      "url": "https://books.toscrape.com/catalogue/the-black-maria_991/index.html"
+    },
+    {
+      "titulo": "Starving Hearts (Triangular Trade Trilogy, #1)",
+      "precio": "13.99",
+      "moneda": "GBP",
+      "disponible": true,
+      "valoracion": 2,
+      "url": "https://books.toscrape.com/catalogue/starving-hearts-triangular-trade-trilogy-1_990/index.html"
+    },
+    {
+      "titulo": "Shakespeare&#39;s Sonnets",
+      "precio": "20.66",
+      "moneda": "GBP",
+      "disponible": true,
+      "valoracion": 4,
+      "url": "https://books.toscrape.com/catalogue/shakespeares-sonnets_989/index.html"
+    },
+    {
+      "titulo": "Set Me Free",
+      "precio": "17.46",
+      "moneda": "GBP",
+      "disponible": true,
+      "valoracion": 5,
+      "url": "https://books.toscrape.com/catalogue/set-me-free_988/index.html"
+    },
+    {
+      "titulo": "Scott Pilgrim&#39;s Precious Little Life (Scott Pilgrim #1)",
+      "precio": "52.29",
+      "moneda": "GBP",
+      "disponible": true,
+      "valoracion": 5,
+      "url": "https://books.toscrape.com/catalogue/scott-pilgrims-precious-little-life-scott-pilgrim-1_987/index.html"
+    },
+    {
+      "titulo": "Rip it Up and Start Again",
+      "precio": "35.02",
+      "moneda": "GBP",
+      "disponible": true,
+      "valoracion": 5,
+      "url": "https://books.toscrape.com/catalogue/rip-it-up-and-start-again_986/index.html"
+    },
+    {
+      "titulo": "Our Band Could Be Your Life: Scenes from the American Indie Underground, 1981-1991",
+      "precio": "57.25",
+      "moneda": "GBP",
+      "disponible": true,
+      "valoracion": 3,
+      "url": "https://books.toscrape.com/catalogue/our-band-could-be-your-life-scenes-from-the-american-indie-underground-1981-1991_985/index.html"
+    },
+    {
+      "titulo": "Olio",
+      "precio": "23.88",
+      "moneda": "GBP",
+      "disponible": true,
+      "valoracion": 1,
+      "url": "https://books.toscrape.com/catalogue/olio_984/index.html"
+    },
+    {
+      "titulo": "Mesaerion: The Best Science Fiction Stories 1800-1849",
+      "precio": "37.59",
+      "moneda": "GBP",
+      "disponible": true,
+      "valoracion": 1,
+      "url": "https://books.toscrape.com/catalogue/mesaerion-the-best-science-fiction-stories-1800-1849_983/index.html"
+    },
+    {
+      "titulo": "Libertarianism for Beginners",
+      "precio": "51.33",
+      "moneda": "GBP",
+      "disponible": true,
+      "valoracion": 2,
+      "url": "https://books.toscrape.com/catalogue/libertarianism-for-beginners_982/index.html"
+    },
+    {
+      "titulo": "It&#39;s Only the Himalayas",
+      "precio": "45.17",
+      "moneda": "GBP",
+      "disponible": true,
+      "valoracion": 2,
+      "url": "https://books.toscrape.com/catalogue/its-only-the-himalayas_981/index.html"
+    },
+    {
+      "titulo": "In Her Wake",
+      "precio": "12.84",
+      "moneda": "GBP",
+      "disponible": true,
+      "valoracion": 1,
+      "url": "https://books.toscrape.com/catalogue/in-her-wake_980/index.html"
+    },
+    {
+      "titulo": "How Music Works",
+      "precio": "37.32",
+      "moneda": "GBP",
+      "disponible": true,
+      "valoracion": 2,
+      "url": "https://books.toscrape.com/catalogue/how-music-works_979/index.html"
+    },
+    {
+      "titulo": "Foolproof Preserving: A Guide to Small Batch Jams, Jellies, Pickles, Condiments, and More: A Foolproof Guide to Making Small Batch Jams, Jellies, Pickles, Condiments, and More",
+      "precio": "30.52",
+      "moneda": "GBP",
+      "disponible": true,
+      "valoracion": 3,
+      "url": "https://books.toscrape.com/catalogue/foolproof-preserving-a-guide-to-small-batch-jams-jellies-pickles-condiments-and-more-a-foolproof-guide-to-making-small-batch-jams-jellies-pickles-condiments-and-more_978/index.html"
+    },
+    {
+      "titulo": "Chase Me (Paris Nights #2)",
+      "precio": "25.27",
+      "moneda": "GBP",
+      "disponible": true,
+      "valoracion": 5,
+      "url": "https://books.toscrape.com/catalogue/chase-me-paris-nights-2_977/index.html"
+    },
+    {
+      "titulo": "Black Dust",
+      "precio": "34.53",
+      "moneda": "GBP",
+      "disponible": true,
+      "valoracion": 5,
+      "url": "https://books.toscrape.com/catalogue/black-dust_976/index.html"
+    },
+    {
+      "titulo": "Birdsong: A Story in Pictures",
+      "precio": "54.64",
+      "moneda": "GBP",
+      "disponible": true,
+      "valoracion": 3,
+      "url": "https://books.toscrape.com/catalogue/birdsong-a-story-in-pictures_975/index.html"
+    },
+    {
+      "titulo": "America&#39;s Cradle of Quarterbacks: Western Pennsylvania&#39;s Football Factory from Johnny Unitas to Joe Montana",
+      "precio": "22.50",
+      "moneda": "GBP",
+      "disponible": true,
+      "valoracion": 3,
+      "url": "https://books.toscrape.com/catalogue/americas-cradle-of-quarterbacks-western-pennsylvanias-football-factory-from-johnny-unitas-to-joe-montana_974/index.html"
+    },
+    {
+      "titulo": "Aladdin and His Wonderful Lamp",
+      "precio": "53.13",
+      "moneda": "GBP",
+      "disponible": true,
+      "valoracion": 3,
+      "url": "https://books.toscrape.com/catalogue/aladdin-and-his-wonderful-lamp_973/index.html"
+    },
+    {
+      "titulo": "Worlds Elsewhere: Journeys Around Shakespeare’s Globe",
+      "precio": "40.30",
+      "moneda": "GBP",
+      "disponible": true,
+      "valoracion": 5,
+      "url": "https://books.toscrape.com/catalogue/worlds-elsewhere-journeys-around-shakespeares-globe_972/index.html"
+    },
+    {
+      "titulo": "Wall and Piece",
+      "precio": "44.18",
+      "moneda": "GBP",
+      "disponible": true,
+      "valoracion": 4,
+      "url": "https://books.toscrape.com/catalogue/wall-and-piece_971/index.html"
+    },
+    {
+      "titulo": "The Four Agreements: A Practical Guide to Personal Freedom",
+      "precio": "17.66",
+      "moneda": "GBP",
+      "disponible": true,
+      "valoracion": 5,
+      "url": "https://books.toscrape.com/catalogue/the-four-agreements-a-practical-guide-to-personal-freedom_970/index.html"
+    },
+    {
+      "titulo": "The Five Love Languages: How to Express Heartfelt Commitment to Your Mate",
+      "precio": "31.05",
+      "moneda": "GBP",
+      "disponible": true,
+      "valoracion": 3,
+      "url": "https://books.toscrape.com/catalogue/the-five-love-languages-how-to-express-heartfelt-commitment-to-your-mate_969/index.html"
+    },
+    {
+      "titulo": "The Elephant Tree",
+      "precio": "23.82",
+      "moneda": "GBP",
+      "disponible": true,
+      "valoracion": 5,
+      "url": "https://books.toscrape.com/catalogue/the-elephant-tree_968/index.html"
+    },
+    {
+      "titulo": "The Bear and the Piano",
+      "precio": "36.89",
+      "moneda": "GBP",
+      "disponible": true,
+      "valoracion": 1,
+      "url": "https://books.toscrape.com/catalogue/the-bear-and-the-piano_967/index.html"
+    },
+    {
+      "titulo": "Sophie&#39;s World",
+      "precio": "15.94",
+      "moneda": "GBP",
+      "disponible": true,
+      "valoracion": 5,
+      "url": "https://books.toscrape.com/catalogue/sophies-world_966/index.html"
+    },
+    {
+      "titulo": "Penny Maybe",
+      "precio": "33.29",
+      "moneda": "GBP",
+      "disponible": true,
+      "valoracion": 3,
+      "url": "https://books.toscrape.com/catalogue/penny-maybe_965/index.html"
+    },
+    {
+      "titulo": "Maude (1883-1993):She Grew Up with the country",
+      "precio": "18.02",
+      "moneda": "GBP",
+      "disponible": true,
+      "valoracion": 2,
+      "url": "https://books.toscrape.com/catalogue/maude-1883-1993she-grew-up-with-the-country_964/index.html"
+    },
+    {
+      "titulo": "In a Dark, Dark Wood",
+      "precio": "19.63",
+      "moneda": "GBP",
+      "disponible": true,
+      "valoracion": 1,
+      "url": "https://books.toscrape.com/catalogue/in-a-dark-dark-wood_963/index.html"
+    },
+    {
+      "titulo": "Behind Closed Doors",
+      "precio": "52.22",
+      "moneda": "GBP",
+      "disponible": true,
+      "valoracion": 4,
+      "url": "https://books.toscrape.com/catalogue/behind-closed-doors_962/index.html"
+    },
+    {
+      "titulo": "You can&#39;t bury them all: Poems",
+      "precio": "33.63",
+      "moneda": "GBP",
+      "disponible": true,
+      "valoracion": 2,
+      "url": "https://books.toscrape.com/catalogue/you-cant-bury-them-all-poems_961/index.html"
+    },
+    {
+      "titulo": "Slow States of Collapse: Poems",
+      "precio": "57.31",
+      "moneda": "GBP",
+      "disponible": true,
+      "valoracion": 3,
+      "url": "https://books.toscrape.com/catalogue/slow-states-of-collapse-poems_960/index.html"
+    },
+    {
+      "titulo": "Reasons to Stay Alive",
+      "precio": "26.41",
+      "moneda": "GBP",
+      "disponible": true,
+      "valoracion": 2,
+      "url": "https://books.toscrape.com/catalogue/reasons-to-stay-alive_959/index.html"
+    },
+    {
+      "titulo": "Private Paris (Private #10)",
+      "precio": "47.61",
+      "moneda": "GBP",
+      "disponible": true,
+      "valoracion": 5,
+      "url": "https://books.toscrape.com/catalogue/private-paris-private-10_958/index.html"
+    },
+    {
+      "titulo": "#HigherSelfie: Wake Up Your Life. Free Your Soul. Find Your Tribe.",
+      "precio": "23.11",
+      "moneda": "GBP",
+      "disponible": true,
+      "valoracion": 5,
+      "url": "https://books.toscrape.com/catalogue/higherselfie-wake-up-your-life-free-your-soul-find-your-tribe_957/index.html"
+    },
+    {
+      "titulo": "Without Borders (Wanderlove #1)",
+      "precio": "45.07",
+      "moneda": "GBP",
+      "disponible": true,
+      "valoracion": 2,
+      "url": "https://books.toscrape.com/catalogue/without-borders-wanderlove-1_956/index.html"
+    },
+    {
+      "titulo": "When We Collided",
+      "precio": "31.77",
+      "moneda": "GBP",
+      "disponible": true,
+      "valoracion": 1,
+      "url": "https://books.toscrape.com/catalogue/when-we-collided_955/index.html"
+    },
+    {
+      "titulo": "We Love You, Charlie Freeman",
+      "precio": "50.27",
+      "moneda": "GBP",
+      "disponible": true,
+      "valoracion": 5,
+      "url": "https://books.toscrape.com/catalogue/we-love-you-charlie-freeman_954/index.html"
+    },
+    {
+      "titulo": "Untitled Collection: Sabbath Poems 2014",
+      "precio": "14.27",
+      "moneda": "GBP",
+      "disponible": true,
+      "valoracion": 4,
+      "url": "https://books.toscrape.com/catalogue/untitled-collection-sabbath-poems-2014_953/index.html"
+    },
+    {
+      "titulo": "Unseen City: The Majesty of Pigeons, the Discreet Charm of Snails &amp; Other Wonders of the Urban Wilderness",
+      "precio": "44.18",
+      "moneda": "GBP",
+      "disponible": true,
+      "valoracion": 4,
+      "url": "https://books.toscrape.com/catalogue/unseen-city-the-majesty-of-pigeons-the-discreet-charm-of-snails-other-wonders-of-the-urban-wilderness_952/index.html"
+    },
+    {
+      "titulo": "Unicorn Tracks",
+      "precio": "18.78",
+      "moneda": "GBP",
+      "disponible": true,
+      "valoracion": 3,
+      "url": "https://books.toscrape.com/catalogue/unicorn-tracks_951/index.html"
+    },
+    {
+      "titulo": "Unbound: How Eight Technologies Made Us Human, Transformed Society, and Brought Our World to the Brink",
+      "precio": "25.52",
+      "moneda": "GBP",
+      "disponible": true,
+      "valoracion": 1,
+      "url": "https://books.toscrape.com/catalogue/unbound-how-eight-technologies-made-us-human-transformed-society-and-brought-our-world-to-the-brink_950/index.html"
+    },
+    {
+      "titulo": "Tsubasa: WoRLD CHRoNiCLE 2 (Tsubasa WoRLD CHRoNiCLE #2)",
+      "precio": "16.28",
+      "moneda": "GBP",
+      "disponible": true,
+      "valoracion": 1,
+      "url": "https://books.toscrape.com/catalogue/tsubasa-world-chronicle-2-tsubasa-world-chronicle-2_949/index.html"
+    },
+    {
+      "titulo": "Throwing Rocks at the Google Bus: How Growth Became the Enemy of Prosperity",
+      "precio": "31.12",
+      "moneda": "GBP",
+      "disponible": true,
+      "valoracion": 3,
+      "url": "https://books.toscrape.com/catalogue/throwing-rocks-at-the-google-bus-how-growth-became-the-enemy-of-prosperity_948/index.html"
+    },
+    {
+      "titulo": "This One Summer",
+      "precio": "19.49",
+      "moneda": "GBP",
+      "disponible": true,
+      "valoracion": 4,
+      "url": "https://books.toscrape.com/catalogue/this-one-summer_947/index.html"
+    },
+    {
+      "titulo": "Thirst",
+      "precio": "17.27",
+      "moneda": "GBP",
+      "disponible": true,
+      "valoracion": 5,
+      "url": "https://books.toscrape.com/catalogue/thirst_946/index.html"
+    },
+    {
+      "titulo": "The Torch Is Passed: A Harding Family Story",
+      "precio": "19.09",
+      "moneda": "GBP",
+      "disponible": true,
+      "valoracion": 1,
+      "url": "https://books.toscrape.com/catalogue/the-torch-is-passed-a-harding-family-story_945/index.html"
+    },
+    {
+      "titulo": "The Secret of Dreadwillow Carse",
+      "precio": "56.13",
+      "moneda": "GBP",
+      "disponible": true,
+      "valoracion": 1,
+      "url": "https://books.toscrape.com/catalogue/the-secret-of-dreadwillow-carse_944/index.html"
+    },
+    {
+      "titulo": "The Pioneer Woman Cooks: Dinnertime: Comfort Classics, Freezer Food, 16-Minute Meals, and Other Delicious Ways to Solve Supper!",
+      "precio": "56.41",
+      "moneda": "GBP",
+      "disponible": true,
+      "valoracion": 1,
+      "url": "https://books.toscrape.com/catalogue/the-pioneer-woman-cooks-dinnertime-comfort-classics-freezer-food-16-minute-meals-and-other-delicious-ways-to-solve-supper_943/index.html"
+    },
+    {
+      "titulo": "The Past Never Ends",
+      "precio": "56.50",
+      "moneda": "GBP",
+      "disponible": true,
+      "valoracion": 4,
+      "url": "https://books.toscrape.com/catalogue/the-past-never-ends_942/index.html"
+    },
+    {
+      "titulo": "The Natural History of Us (The Fine Art of Pretending #2)",
+      "precio": "45.22",
+      "moneda": "GBP",
+      "disponible": true,
+      "valoracion": 3,
+      "url": "https://books.toscrape.com/catalogue/the-natural-history-of-us-the-fine-art-of-pretending-2_941/index.html"
+    }
+  ]
+}
